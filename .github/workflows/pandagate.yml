@@ -20,4 +20,4 @@ jobs:
       pull-requests: write
     steps:
       # No checkout: the pull request's code is never fetched or run.
-      - uses: evkir/pandagate@6c131b2f540a80fd586e68fe861df25fe103402f
+      - uses: evkir/pandagate@v0.1.0
